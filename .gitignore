@@ -1,0 +1,19 @@
+#Ambiente de variáveis de ambiente
+.env
+
+#Arquivos Python
+saf.py
+saf_noExcel.py
+fiscapp.py
+gerar_qr.py
+teste.py
+
+#Arquivo Excel
+*.xlsx
+
+#Arquivos de imagens
+*.png
+
+#Arquivos compactados
+*.zip
+*.rar
